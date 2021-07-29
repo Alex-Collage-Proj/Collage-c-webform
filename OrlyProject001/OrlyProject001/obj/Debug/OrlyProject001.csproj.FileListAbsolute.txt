@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\bin\Debug\OrlyProject001.exe.config
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\bin\Debug\OrlyProject001.exe
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\bin\Debug\OrlyProject001.pdb
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.Form1.resources
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.Properties.Resources.resources
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.exe
+C:\Users\Alex\source\repos\OrlyProject001\OrlyProject001\obj\Debug\OrlyProject001.pdb

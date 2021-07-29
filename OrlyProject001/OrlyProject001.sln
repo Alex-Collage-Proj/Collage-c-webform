@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrlyProject001", "OrlyProject001\OrlyProject001.csproj", "{F2D64074-0BB3-4789-9B3D-C949FAEE612D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D64074-0BB3-4789-9B3D-C949FAEE612D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D64074-0BB3-4789-9B3D-C949FAEE612D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D64074-0BB3-4789-9B3D-C949FAEE612D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D64074-0BB3-4789-9B3D-C949FAEE612D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B25076D-C4E8-46F3-BEAD-CE696BC75CB2}
+	EndGlobalSection
+EndGlobal
