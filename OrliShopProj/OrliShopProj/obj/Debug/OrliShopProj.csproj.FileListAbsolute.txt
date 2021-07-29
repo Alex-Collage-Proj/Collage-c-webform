@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\bin\Debug\OrliShopProj.exe.config
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\bin\Debug\OrliShopProj.exe
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\bin\Debug\OrliShopProj.pdb
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.Form1.resources
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.Properties.Resources.resources
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.Qunty.resources
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.exe
+C:\Users\Alex\source\repos\OrliShopProj\OrliShopProj\obj\Debug\OrliShopProj.pdb
